@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239101420326",
+    "project_id": "yp-academy-e8abb",
+    "storage_bucket": "yp-academy-e8abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239101420326:android:6dd9c95962e8c409b6d7e7",
+        "android_client_info": {
+          "package_name": "com.youngprofessionals.ypa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239101420326-mjop55sdu0742gaiohvujqr51pcn8ncu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwuXu9THeiwYS6UfeVhMiIRZPdVQ-LURo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239101420326-mjop55sdu0742gaiohvujqr51pcn8ncu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

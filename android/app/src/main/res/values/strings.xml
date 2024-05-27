@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">YP Academy</string>
+    <string name="facebook_app_id">454215693225850</string>
+    <string name="facebook_client_token">ffb7f32afa53d9e7f13d9f96f5e1075e</string>
+    <string name="fb_login_protocol_scheme">fb454215693225850</string>
+</resources>
